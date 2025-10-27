@@ -1,0 +1,14 @@
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net8.0\Multiple_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net8.0\Multiple_Inheritance.AssemblyInfoInputs.cache
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net8.0\Multiple_Inheritance.AssemblyInfo.cs
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net8.0\Multiple_Inheritance.csproj.CoreCompileInputs.cache
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net8.0\Multiple_Inheritance.exe
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net8.0\Multiple_Inheritance.deps.json
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net8.0\Multiple_Inheritance.runtimeconfig.json
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net8.0\Multiple_Inheritance.dll
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net8.0\Multiple_Inheritance.pdb
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net8.0\Multiple_Inheritance.dll
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net8.0\refint\Multiple_Inheritance.dll
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net8.0\Multiple_Inheritance.pdb
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net8.0\Multiple_Inheritance.genruntimeconfig.cache
+D:\LOKESH\LAB\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net8.0\ref\Multiple_Inheritance.dll
