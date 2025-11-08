@@ -1,0 +1,43 @@
+@model IEnumerable<MyApp.Models.Player>
+@{
+    ViewData["Title"] = "Players List";
+}
+
+<h2>Players List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add New Player</a>
+</p>
+
+@if (!Model.Any())
+{
+    <p>No players have been added yet.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Jersey Number</th>
+                <th>Position</th>
+                <th>Date of Birth</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var player in Model)
+            {
+                <tr>
+                    <td>@player.Name</td>
+                    <td>@player.Email</td>
+                    <td>@player.JerseyNumber</td>
+                    <td>@player.Position</td>
+                    <td>@player.DateOfBirth.ToString("yyyy-MM-dd")</td>
+                    <td>@player.Salary.ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

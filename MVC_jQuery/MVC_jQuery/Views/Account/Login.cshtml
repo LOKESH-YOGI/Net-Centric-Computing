@@ -1,0 +1,51 @@
+﻿@model MVC_jQuery.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form id="loginForm" asp-action="Login" asp-controller="Account" method="post">
+    <div>
+        <label>Username:</label>
+        <input type="text" id="Username" name="Username" />
+    </div>
+    <div>
+        <label>Password:</label>
+        <input type="password" id="Password" name="Password" />
+    </div>
+    <div>
+        <input type="submit" value="Login" />
+    </div>
+</form>
+
+<!-- Validation Message Display -->
+<div id="errorMessages" style="color:red; margin-top:10px;"></div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#loginForm").submit(function (e) {
+                var username = $("#Username").val().trim();
+                var password = $("#Password").val().trim();
+                var errorMsg = "";
+
+                if (username === "" || password === "") {
+                    e.preventDefault(); // Stop form submission
+
+                    if (username === "") {
+                        errorMsg += "Username is required.<br/>";
+                    }
+                    if (password === "") {
+                        errorMsg += "Password is required.<br/>";
+                    }
+
+                    $("#errorMessages").html(errorMsg);
+                }
+            });
+        });
+    </script>
+}

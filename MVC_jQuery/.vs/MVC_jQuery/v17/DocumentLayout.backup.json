@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LOKESH\\LAB\\MVC_jQuery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F695F3D7-4F0C-437C-BCD8-5ACA115A15B1}|MVC_jQuery\\MVC_jQuery.csproj|d:\\lokesh\\lab\\mvc_jquery\\mvc_jquery\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F695F3D7-4F0C-437C-BCD8-5ACA115A15B1}|MVC_jQuery\\MVC_jQuery.csproj|solutionrelative:mvc_jquery\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F695F3D7-4F0C-437C-BCD8-5ACA115A15B1}|MVC_jQuery\\MVC_jQuery.csproj|d:\\lokesh\\lab\\mvc_jquery\\mvc_jquery\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F695F3D7-4F0C-437C-BCD8-5ACA115A15B1}|MVC_jQuery\\MVC_jQuery.csproj|solutionrelative:mvc_jquery\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F695F3D7-4F0C-437C-BCD8-5ACA115A15B1}|MVC_jQuery\\MVC_jQuery.csproj|d:\\lokesh\\lab\\mvc_jquery\\mvc_jquery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F695F3D7-4F0C-437C-BCD8-5ACA115A15B1}|MVC_jQuery\\MVC_jQuery.csproj|solutionrelative:mvc_jquery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_jQuery\\MVC_jQuery\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC_jQuery\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_jQuery\\MVC_jQuery\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC_jQuery\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T04:29:34.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_jQuery\\MVC_jQuery\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_jQuery\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_jQuery\\MVC_jQuery\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "MVC_jQuery\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:28:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_jQuery\\MVC_jQuery\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC_jQuery\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_jQuery\\MVC_jQuery\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC_jQuery\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:27:32.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

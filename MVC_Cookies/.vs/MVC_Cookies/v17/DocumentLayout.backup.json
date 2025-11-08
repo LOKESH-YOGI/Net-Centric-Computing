@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LOKESH\\LAB\\MVC_Cookies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62368CEF-6075-427E-BE5E-90A06F36D94C}|MVC_Cookies\\MVC_Cookies.csproj|d:\\lokesh\\lab\\mvc_cookies\\mvc_cookies\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62368CEF-6075-427E-BE5E-90A06F36D94C}|MVC_Cookies\\MVC_Cookies.csproj|solutionrelative:mvc_cookies\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62368CEF-6075-427E-BE5E-90A06F36D94C}|MVC_Cookies\\MVC_Cookies.csproj|d:\\lokesh\\lab\\mvc_cookies\\mvc_cookies\\views\\account\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62368CEF-6075-427E-BE5E-90A06F36D94C}|MVC_Cookies\\MVC_Cookies.csproj|solutionrelative:mvc_cookies\\views\\account\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62368CEF-6075-427E-BE5E-90A06F36D94C}|MVC_Cookies\\MVC_Cookies.csproj|d:\\lokesh\\lab\\mvc_cookies\\mvc_cookies\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62368CEF-6075-427E-BE5E-90A06F36D94C}|MVC_Cookies\\MVC_Cookies.csproj|solutionrelative:mvc_cookies\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_Cookies\\MVC_Cookies\\Views\\Account\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "MVC_Cookies\\Views\\Account\\Welcome.cshtml",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_Cookies\\MVC_Cookies\\Views\\Account\\Welcome.cshtml",
+              "RelativeToolTip": "MVC_Cookies\\Views\\Account\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T03:53:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_Cookies\\MVC_Cookies\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC_Cookies\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_Cookies\\MVC_Cookies\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC_Cookies\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T03:52:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_Cookies\\MVC_Cookies\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC_Cookies\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_Cookies\\MVC_Cookies\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC_Cookies\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:51:11.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿@{
+    ViewData["Title"] = "Welcome";
+}
+<h2>Welcome, @ViewBag.User!</h2>
+
+<p>Your login information is stored in a cookie for 5 days.</p>
+
+<a asp-controller="Account" asp-action="Logout">Logout</a>
