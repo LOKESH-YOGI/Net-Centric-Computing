@@ -31,3 +31,4 @@ D:\LOKESH\LAB\Data_Annotation\Data_Annotation\obj\Debug\net8.0\Data_Annotation.p
 D:\LOKESH\LAB\Data_Annotation\Data_Annotation\obj\Debug\net8.0\Data_Annotation.genruntimeconfig.cache
 D:\LOKESH\LAB\Data_Annotation\Data_Annotation\obj\Debug\net8.0\ref\Data_Annotation.dll
 D:\LOKESH\LAB\Data_Annotation\Data_Annotation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\LOKESH\LAB\Data_Annotation\Data_Annotation\obj\Debug\net8.0\swae.build.ex.cache

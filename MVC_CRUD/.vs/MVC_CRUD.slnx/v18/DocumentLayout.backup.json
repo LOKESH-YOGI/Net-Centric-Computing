@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LOKESH\\LAB\\MVC_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|d:\\lokesh\\lab\\mvc_crud\\mvc_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|d:\\lokesh\\lab\\mvc_crud\\mvc_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|d:\\lokesh\\lab\\mvc_crud\\mvc_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|d:\\lokesh\\lab\\mvc_crud\\mvc_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|d:\\lokesh\\lab\\mvc_crud\\mvc_crud\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|d:\\lokesh\\lab\\mvc_crud\\mvc_crud\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|d:\\lokesh\\lab\\mvc_crud\\mvc_crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD7FC5-270A-EEC3-7CD6-D6DF5343DD32}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC_CRUD\\Models\\Student.cs",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Models\\Student.cs",
+              "RelativeToolTip": "MVC_CRUD\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:43:58.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_CRUD\\Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "MVC_CRUD\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T15:42:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_CRUD\\Views\\Students\\Create.cshtml",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "MVC_CRUD\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T15:42:06.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T15:39:48.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_CRUD\\appsettings.json",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\appsettings.json",
+              "RelativeToolTip": "MVC_CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T15:35:22.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVC_CRUD\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVC_CRUD\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:33:24.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_CRUD\\Program.cs",
+              "ToolTip": "D:\\LOKESH\\LAB\\MVC_CRUD\\MVC_CRUD\\Program.cs",
+              "RelativeToolTip": "MVC_CRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:31:52.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

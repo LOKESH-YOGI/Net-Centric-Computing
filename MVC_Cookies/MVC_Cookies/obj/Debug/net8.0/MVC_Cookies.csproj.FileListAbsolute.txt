@@ -31,3 +31,4 @@ D:\LOKESH\LAB\MVC_Cookies\MVC_Cookies\obj\Debug\net8.0\refint\MVC_Cookies.dll
 D:\LOKESH\LAB\MVC_Cookies\MVC_Cookies\obj\Debug\net8.0\MVC_Cookies.pdb
 D:\LOKESH\LAB\MVC_Cookies\MVC_Cookies\obj\Debug\net8.0\MVC_Cookies.genruntimeconfig.cache
 D:\LOKESH\LAB\MVC_Cookies\MVC_Cookies\obj\Debug\net8.0\ref\MVC_Cookies.dll
+D:\LOKESH\LAB\MVC_Cookies\MVC_Cookies\obj\Debug\net8.0\swae.build.ex.cache

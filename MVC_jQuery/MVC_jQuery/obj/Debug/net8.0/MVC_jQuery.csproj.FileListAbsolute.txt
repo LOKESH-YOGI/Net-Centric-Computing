@@ -31,3 +31,4 @@ D:\LOKESH\LAB\MVC_jQuery\MVC_jQuery\obj\Debug\net8.0\refint\MVC_jQuery.dll
 D:\LOKESH\LAB\MVC_jQuery\MVC_jQuery\obj\Debug\net8.0\MVC_jQuery.pdb
 D:\LOKESH\LAB\MVC_jQuery\MVC_jQuery\obj\Debug\net8.0\MVC_jQuery.genruntimeconfig.cache
 D:\LOKESH\LAB\MVC_jQuery\MVC_jQuery\obj\Debug\net8.0\ref\MVC_jQuery.dll
+D:\LOKESH\LAB\MVC_jQuery\MVC_jQuery\obj\Debug\net8.0\swae.build.ex.cache

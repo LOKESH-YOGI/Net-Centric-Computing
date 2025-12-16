@@ -2,11 +2,10 @@
 @{
     ViewData["Title"] = "Players List";
 }
-
 <h2>Players List</h2>
 
 <p>
-    <a asp-action="Create" class="btn btn-primary">Add New Player</a>
+    <a asp-action="Create">Add New Player</a>
 </p>
 
 @if (!Model.Any())
@@ -15,7 +14,7 @@
 }
 else
 {
-    <table class="table table-striped">
+    <table>
         <thead>
             <tr>
                 <th>Name</th>
